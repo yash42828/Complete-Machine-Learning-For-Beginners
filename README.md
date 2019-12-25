@@ -36,10 +36,20 @@ The classification of that object is called a LABEL.
 
 # Getting your hands dirty
 
-## Getting Setup with Python
-Ensure that you have the below software installed.
+[![Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yash42828/Complete-Machine-Learning-For-Beginners)
 
-Software you require
-* [Python](https://www.python.org)
-* [Anaconda (Recommended)](https://www.continuum.io)
+### ([Please feel free to connect on LinkedIn here](https://www.linkedin.com/in/yash-bajaj-a50013123/))
+---
 
+## Requirements
+* **Python 3.6+**
+* **NumPy (`pip install numpy`)**
+* **Pandas (`pip install pandas`)**
+* **Scikit-learn (`pip install scikit-learn`)**
+* **SciPy (`pip install scipy`)**
+* **MatplotLib (`pip install matplotlib`)**
+* **Seaborn (`pip install seaborn`)**
+* **Tensorflow (`pip install tensorflow>=1.15`)**
+* **Keras (`pip install keras`)**
+
+---
